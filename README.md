@@ -30,7 +30,12 @@ J’ai aussi un fort intérêt pour l’intelligence artificielle et les technol
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" />
+  <a target="_blank" href="https://reactnative.dev/">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://nextjs.org/">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" />
+  </a>
 </p>
 
 <h3>🖥️ Backend & Bases de données</h3>
@@ -58,7 +63,7 @@ J’ai aussi un fort intérêt pour l’intelligence artificielle et les technol
 <h3>🔌 Autres </h3>
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Cisco_logo_blue_2016.svg" alt="cisco" width="80" height="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Cisco_logo_blue_2016.svg" alt="ccna/Reseau" width="80" height="30" />
 </p>
 
 

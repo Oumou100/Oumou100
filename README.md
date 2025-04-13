@@ -1,4 +1,4 @@
-<h1>Bonjour, je suis Oumou Koné 👩🏾‍💻</h1>
+<h1>Hello ! je suis Oumou Koné 👩🏾‍💻</h1>
 <p>Développeuse Fullstack & Mobile hybride passionnée, motivée et toujours prête à relever de nouveaux défis !
 J’ai aussi un fort intérêt pour l’intelligence artificielle et les technologies innovantes.</p>
 
@@ -21,49 +21,46 @@ J’ai aussi un fort intérêt pour l’intelligence artificielle et les technol
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" />
 </p>
 
-<h3>🎨 Frontend</h3>
+<h3>🎨 Frontend & Mobile</h3>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/shadcn/shadcn-icon.svg" alt="shadcn" width="42" height="42" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" />
 </p>
 
-<h3>🖥️ Backend</h3>
+<h3>🖥️ Backend & Bases de données</h3>
 <p>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" />
-</p>
-
-<h3>📱 Mobile</h3>
-<p>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" />
 </p>
 
 <h3>🧠 IA / Data</h3>
 <p>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" />
 </p>
 
-<h3>💾 Bases de données</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" />
-</p>
-
-<h3>🛠️ Outils & Déploiement</h3>
+<h3>⚙️ Versioning</h3>
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" />
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="42" height="42" />
 </p>
 
+<h3>🔌 Autres </h3>
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Cisco_logo_blue_2016.svg" alt="cisco" width="80" height="30" />
+</p>
+
+
 <h2>⚡️ Me contacter</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Koné Oumou" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/kon%C3%A9-oumou-98bb6229a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
